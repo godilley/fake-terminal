@@ -10,10 +10,10 @@
     "express": "^4.15.2"
   },
   "engines": {
-    "node": "6.10.x"
+    "node": "^16"
   },
   "repository": {
-    "url": "https://github.com/louh/fake-terminal"
+    "url": "https://github.com/godilley/fake-terminal"
   },
   "license": "MIT",
   "keywords": [
