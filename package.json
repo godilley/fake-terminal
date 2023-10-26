@@ -10,7 +10,7 @@
     "express": "^4.15.2"
   },
   "engines": {
-    "node": "^16"
+    "node": "^12|^16"
   },
   "repository": {
     "url": "https://github.com/godilley/fake-terminal"
